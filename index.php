@@ -12,6 +12,7 @@
 		<li><a href="grab_kurs_mandiri.php">Kurs Mandiri</a></li>
 		<li><a href="grab_provinsi_wikipedia.php">Provinsi Wikipedia</a></li>
 		<li><a href="index_grab_jadwal_sholat.php">Jadwal Sholat</a></li>
+		<li><a href="index_grab_instagram.php">Instagram Downloader</a></li>
 	</ul>
 </body>
 
