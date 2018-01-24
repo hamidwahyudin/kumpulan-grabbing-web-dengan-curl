@@ -11,6 +11,7 @@
 		<li><a href="grab_bi.php">Kurs BI</a></li>
 		<li><a href="grab_kurs_mandiri.php">Kurs Mandiri</a></li>
 		<li><a href="grab_provinsi_wikipedia.php">Provinsi Wikipedia</a></li>
+		<li><a href="index_grab_jadwal_sholat.php">Jadwal Sholat</a></li>
 	</ul>
 </body>
 
