@@ -35,7 +35,7 @@ if(isset($_POST['url'])){
 	$url = fungsiCurl($id);
 
 	$pecah_1 = explode('<script type="text/javascript">', $url);
-	$pecah_2 = explode('</script>', $pecah_1[3]);
+	$pecah_2 = explode('</script>', $pecah_1[4]);
 	$clean = str_replace('window._sharedData = ', '', $pecah_2[0]);
 	$clean2 = str_replace(';', '', $clean);
 
